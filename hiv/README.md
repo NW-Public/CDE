@@ -49,7 +49,10 @@ also see files for some of them in https://github.com/lhncbc/CDE/tree/master/hiv
 
 - 2019-11: Automated Discovery of Common Data Elements in HIV Clinical Trials Using an Interaction Network. AMIA Annual Symposium, 2019
 
-- 2019-12: HIV and cancer, Think Tank meeting
+- 2019-12: 
+Williams N, Mayer CS,Huser V.CANCER DIAGNOSIS AND MORTALITY AMONG 400 THOUSAND HIV+ MEDICARE PATIENTS FROM 2000 TO 2016. Cancer Virology and HIV Think Tank 2019, NCI 
+  
+
 
 ## Training materials
 
